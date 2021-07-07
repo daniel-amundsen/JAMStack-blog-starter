@@ -1,8 +1,4 @@
- <header class="page-header">
-  <div class="container">
-    <div class="page-header__content">
-      <div>
-       <a href="/"><?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -76,25 +72,3 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.53234px;font-family:Gabriola;-inkscape-font-specification:'Gabriola, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#006680;stroke-width:0.324553">Pensionsfrid</tspan></text>
   </g>
 </svg>
-</a>
-      </div>
-      <nav>
-        
-        <ul role="list" class="nav-list flex-group">
-          <li>
-            <a href="/">Hem</a>
-          </li>
-          <li>
-            <a href="/blog/">Tjänster</a>
-          </li>
-          <li>
-            <a href="/contact/">Kontakta</a>
-          </li>
-           <li>
-            <a href="/bookings/">Boka Tid</a>
-          </li>
-        </ul>
-      </nav>
-    </div>
-  </div>
-</header>
