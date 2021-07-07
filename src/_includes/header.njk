@@ -1,15 +1,16 @@
  <header class="page-header">
   <div class="container">
     <div class="page-header__content">
-      <div>
+      <div class="logo">
        <a href="/">
-        <img height="60vw" src="\assets\pesionsfrid_logos_endast.png" alt="">
+        <img height="60vw" src="\assets\pesionsfrid_logos_endast.png" alt="pensionsfrid logan">
 
       </a>
       </div>
+      <input type="checkbox" class="nav-toggle" id="nav-toggle">
       <nav>
-        
-        <ul role="list" class="nav-list flex-group">
+         {# flex-group #}
+        <ul role="list" class="nav-list"> 
           <li>
             <a href="/">Hem</a>
           </li>
@@ -24,6 +25,9 @@
           </li>
         </ul>
       </nav>
+        <label for="nav-toggle" class="nav-toggle-label">
+          <span></span>
+        </label>
     </div>
   </div>
 </header>
