@@ -1,29 +1,29 @@
 ---
-title: example
+title: pensionsfrid
 layout: 'base.njk'
 --- 
 
 <section class="hero">
   <div class="container flow">
       <div class="hero__content flow">
-        <h1 class="section-title">Welcome to my blog!</h1>
-        <p>I use this space to document my adventures in front-end development, sharing how I’ve overcome issues I’ve run into, useful resources, and more.</p>
-        <p>Below are some of my favourite articles, or you can go to the blog page to see my most recent posts.</p>
+        <h1 class="section-title">Välkommen till Pensionsfrid</h1>
+        <p>Här jobbar vi för att fler ska få en trygghet i sin pension och andra relaterade tjänster som Framtidsfullmakt.</p>
+        <p>Kontakta mig idag eller skicka in en kontaktförfrågan så ringer jag upp, inga förpliktelser om att köpa, bara värme och trygghet.</p>
         <div class="flex-group">
-          <a href="#featured-articles" class="btn btn--primary">Featured articles</a>
-          <a href="./blog" class="btn btn--neutral">Most recent articles</a>
+          <a href="#contact_form1" class="btn btn--primary">Kontakta mig!</a>
+          <a href="./blog" class="btn btn--neutral">Tjänster</a>
         </div>
       </div>
       <div>
-        <img src="//unsplash.it/510" alt="" class="hero__image">
+        <img src="/assets/hasse_profil.jpg" alt="" class="hero__image">
       </div>
   </div>
 </section>
 
 <section id="featured-articles" class="featured-articles">
   <div class="container flow">
-    <h2 class="section-title text-center ">Featured articles</h2>
-    <p class="text-center">Here is a sample of articles which I feel give you a good idea of what this site is all about.</p>
+    <h2 class="section-title text-center ">Populära tjänster</h2>
+    <p class="text-center">Här listar jag de tjänster som ofta efterfrågas och som hjälpt fest. Resten av tjänsterna hittas under Tjänster i menyn.</p>
       <ul role="list" class="articles__list flow">
         {%- for post in collections.featured | reverse -%}
           {% include "article-snippet.njk" %}
@@ -31,3 +31,8 @@ layout: 'base.njk'
       </ul>
   </div>
 </section> 
+
+{% include "price-list.njk" %}
+<section id="contact_form1">
+{% include "contact_form1.njk" %}
+</section>
