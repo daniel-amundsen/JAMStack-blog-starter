@@ -5,6 +5,8 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy('./src/style.css');
     eleventyConfig.addPassthroughCopy('./src/assets');
     eleventyConfig.addPassthroughCopy('./src/admin');
+    eleventyConfig.addPassthroughCopy('./src/glide.theme.min.css');
+    eleventyConfig.addPassthroughCopy('./src/glide.core.min.css');
     
     eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
 

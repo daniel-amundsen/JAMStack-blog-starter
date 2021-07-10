@@ -12,6 +12,8 @@
   --fw-700: 700;
   --fw-900: 900;
 
+  --sr-header: 2em;
+
   --clr-primary-200: hsla(169, 70%, 95%, 1);
   --clr-primary-300: hsla(182, 100%, 35%, 1);
   --clr-primary-400: hsla(188, 100%, 32%, 1);
@@ -125,6 +127,7 @@ body {
   font-family: var(--ff-body);
   font-size: var(--fs-400);
   color: var(--clr-neutral-900);
+  margin: var(--sr-header) 0 0 0;
 }
 
 h1,
@@ -200,10 +203,12 @@ section,
   /////////////////////// */
 
   .page-header {
+    position: fixed;
+    top: 0;
+    left: 0;
     background: var(--clr-neutral-100);
     text-align: center;
     padding: 1em;
-    position: fixed;
     z-index: 999;
     width: 100%;
   }
@@ -220,7 +225,7 @@ section,
   .nav-toggle-label {
     position: absolute;
     top: 0;
-    right: 0;
+    right: 16px;
     margin-right: 1em;
     height: 100%;
     display: flex;

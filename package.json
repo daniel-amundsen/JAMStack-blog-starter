@@ -20,5 +20,8 @@
   "homepage": "https://github.com/kevin-powell/JAMStack-blog-starter#readme",
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1"
+  },
+  "dependencies": {
+    "@glidejs/glide": "^3.4.1"
   }
 }
