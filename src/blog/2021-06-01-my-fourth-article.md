@@ -5,7 +5,8 @@ description: Pensionsprognos, förslag på upplägg, hjälp med uttag, utskrift 
 author: Hasse Håkansson
 date: 2021-07-10T20:11:57.340Z
 tags:
-  - Post
+  - post
+  - featured
 imageAlt: Pensionsprognos
 image: /assets/blog/accounting-1928237_1920.png
 ---
