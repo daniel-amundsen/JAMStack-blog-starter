@@ -1,12 +1,12 @@
 ---
-title: New post for test
-description: When this is done i will fix all to swedish
-author: Daniel Amundsen
-date: 2021-07-02T14:32:27.405Z
+title: Bouppteckning
+description: Bouppteckning
+author: Hasse Håkansson
+date: 2021-07-10T21:00:50.473Z
 tags:
   - post
   - featured
 imageAlt: here is an image
-image: /assets/blog/images.jpg
+image: /assets/blog/sunset-213545_1920.jpg
 ---
-Lorem ipsum
+Vid dödsfall gör dödsboet en bouppteckning, vilket är en sammanställning av den avlidnes och den efterlevandes skulder och tillgångar.
