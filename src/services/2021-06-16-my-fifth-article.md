@@ -7,7 +7,7 @@ tags:
   - post
   - featured
 imageAlt: Framtidsfullmakt
-image: /assets/blog/technology-4256272_1920.jpg
+image: /assets/media/technology-4256272_1920.jpg
 ---
 En framtidsfullmakt innebär att du som privatperson ger någon annan rätten att i framtiden företräda dig, ifall du exempelvis skulle drabbas av sjukdom, psykisk ohälsa eller försvagat hälsotillstånd och därför inte kan ta hand om ekonomiska och personliga angelägenheter. Du bestämmer själv vad framtidsfullmakten ska omfatta.
 

@@ -8,6 +8,6 @@ tags:
   - post
   - featured
 imageAlt: Pensionsprognos
-image: /assets/blog/accounting-1928237_1920.png
+image: /assets/media/accounting-1928237_1920.png
 ---
 Under pensionsrådgivning görs en genomgång av din intjänade pension och det förväntade utfallet vid pensionsavgång. Därefter framförs ett förslag gällande hur pensionen kan fördelas över tid.
