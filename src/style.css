@@ -263,7 +263,7 @@ section,
     background: var(--clr-neutral-100);
     width: 100%;
     position: absolute;
-    text-align: left;
+    text-align: right;
     top: 100%;
     left: 0;
     transform: scale(1,0);
@@ -273,7 +273,7 @@ section,
 
   .nav-list li {
     margin-bottom: 1em;
-    margin-left: 1em;
+    margin-right: 1em;
   }
 
   .nav-list a {
@@ -573,4 +573,10 @@ section,
 .price-column{
   background-color: white;
   box-shadow: 0 7px 30px rgba(52, 31, 97, 0.1);
+}
+
+.align-center {
+  display: flex;
+  justify-content: center;
+  width: 100%;
 }
