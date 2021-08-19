@@ -2,7 +2,7 @@
 title: Framtidsfullmakt
 description: Få hjälp med framtidsfullmakt för trygghet för dig och dina anhöriga.
 author: Hasse Håkansson
-date: 2021-08-19T10:55:49.975Z
+date: 2021-08-19T10:57:54.762Z
 tags:
   - Framtidsfullmakt
 imageAlt: Teckna framtidsfullmakt.
