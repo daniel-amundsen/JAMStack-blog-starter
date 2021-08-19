@@ -2,7 +2,7 @@
 title: Bouppteckning
 description: Bouppteckning
 author: Hasse Håkansson
-date: 2021-07-10T21:00:50.473Z
+date: 2021-08-19T10:05:38.162Z
 tags:
   - post
   - featured
