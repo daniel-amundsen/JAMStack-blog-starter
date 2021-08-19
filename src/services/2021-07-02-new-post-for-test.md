@@ -4,9 +4,10 @@ description: Bouppteckning
 author: Hasse Håkansson
 date: 2021-08-19T10:05:38.162Z
 tags:
-  - post
-  - featured
-imageAlt: here is an image
-image: /assets/blog/sunset-213545_1920.jpg
+  - Bouppteckning
+imageAlt: Bouppteckning
+image: /assets/media/framtidsfullmakt.jpg
 ---
-Vid dödsfall gör dödsboet en bouppteckning, vilket är en sammanställning av den avlidnes och den efterlevandes skulder och tillgångar.
+En bouppteckning har dödsboet skyldighet att uppföra och registrera inom fyra månader efter dödsfall. Det är en sammanställning av dödsboets tillgångar och skulder.
+
+Bouppteckningen är dödsboets legitimationshandling och visar vem som har rätt att företräda dödsboet. Registrerad bouppteckning behövs ofta för att banker ska tillåta uttag från den avlidna personens konto eller era gemensamma konton.
