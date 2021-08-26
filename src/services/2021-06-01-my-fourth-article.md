@@ -6,7 +6,7 @@ author: Hasse Håkansson
 date: 2021-08-19T10:57:38.314Z
 tags:
   - post
-  - features
+  - featured
 imageAlt: Pensionsprognos
 image: /assets/media/pensionspyramid-3-d.jpg
 ---
