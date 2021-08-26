@@ -4,7 +4,8 @@ description: Bouppteckning
 author: Hasse Håkansson
 date: 2021-08-19T10:58:08.562Z
 tags:
-  - Bouppteckning
+  - post
+  - featured
 imageAlt: Bouppteckning
 image: /assets/media/bouppteckning-arv.jpg
 ---
