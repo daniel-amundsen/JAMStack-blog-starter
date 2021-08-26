@@ -4,7 +4,8 @@ description: Få hjälp med framtidsfullmakt för trygghet för dig och dina anh
 author: Hasse Håkansson
 date: 2021-08-19T10:57:54.762Z
 tags:
-  - Framtidsfullmakt
+  - post
+  - featured
 imageAlt: Teckna framtidsfullmakt.
 image: /assets/media/framtidsfullmakt.jpg
 ---
