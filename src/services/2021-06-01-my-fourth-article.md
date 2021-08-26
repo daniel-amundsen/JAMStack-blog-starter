@@ -5,7 +5,8 @@ description: Pensionsprognoser, förslag på upplägg, hjälp med uttag, utskrif
 author: Hasse Håkansson
 date: 2021-08-19T10:57:38.314Z
 tags:
-  - pensionshjälp
+  - post
+  - features
 imageAlt: Pensionsprognos
 image: /assets/media/pensionspyramid-3-d.jpg
 ---
