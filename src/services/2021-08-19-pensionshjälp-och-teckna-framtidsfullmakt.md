@@ -4,7 +4,8 @@ description: Båda tjänsterna i ett paketpris.
 author: Hasse Håkansson
 date: 2021-08-19T10:57:20.082Z
 tags:
-  - Paketpris
+  - post
+  - featured
 imageAlt: Pensionshjälp och framtidsfullmakt.
 image: /assets/media/pensionspyramid-3-d.jpg
 ---
