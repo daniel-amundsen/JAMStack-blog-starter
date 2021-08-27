@@ -9,6 +9,6 @@ tags:
   - post
   - featured
 imageAlt: Pensionsprognos
-image: /assets/media/pensionspyramid-3-d.jpg
+image: /assets/media/pensionspyramid.png
 ---
 Vi reder ut de olika delarna i pensionen. Gör flera olika prognoser och förslag på upplägg. Du väljer det som du känns tryggast för just dig. Jag hjälper dig med uttag av alla delarna i pensionen. På så sätt skapar vi den den tryggaste ekonomiska situationen för dig vid pensionering.
