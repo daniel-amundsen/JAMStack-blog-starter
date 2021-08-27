@@ -1,5 +1,6 @@
 ---
 title: Pensionshjälp
+sort: 2
 description: Pensionsprognoser, förslag på upplägg, hjälp med uttag, utskrift
   som du har kvar som kvitto.
 author: Hasse Håkansson
