@@ -26,10 +26,10 @@ collections:
     slug: "{{slug}}"
     fields: 
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Beskrivning", name: "description", widget: "string" }
+      - { label: "Beskrivning", required: false, name: "description", widget: "string" }
       - { label: "Författare", name: "author", widget: "string" }
       - { label: "Datum", name: "date", widget: "datetime" }
       - { label: "Taggar", name: "tags", widget: "list", default: ["post"] }
-      - { label: "Bildtext", name: "imageAlt", widget: "string" }
-      - { label: "Bild", name: "image", widget: "image" }
+      - { label: "Bildtext", required: false, name: "imageAlt", widget: "string" }
+      - { label: "Bild", required: false, name: "image", widget: "image" }
       - { label: "Brödtext", name: "body", widget: "markdown"}
