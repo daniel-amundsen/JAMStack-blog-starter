@@ -8,7 +8,7 @@ tags:
   - post
   - featured
 imageAlt: Pensionshjälp och framtidsfullmakt.
-image: /assets/media/pensionspyramid-3-d.jpg
+image: /assets/media/pensionspyramid.png
 ---
 Vi reder upp de olika delarna i pensionen. Gör flera olika prognoser. Du kommer fram till vad som passar just dig. Jag hjälper dig att ta ut alla delarna i pensionen. Allt för att du skall få en så god ekonomi vid pensionering som möjligt.
 
