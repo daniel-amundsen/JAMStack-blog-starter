@@ -3,7 +3,7 @@ title: Bouppteckning
 sort: 10
 description: Bouppteckning
 author: Hasse Håkansson
-date: 2021-08-19T10:58:08.562Z
+date: 2021-08-31T15:51:24.257Z
 tags:
   - post
   - featured
