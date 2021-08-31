@@ -3,7 +3,7 @@ title: Testmente
 sort: 15
 description: Få hjälp med att skriva ner vart du vill att ditt arv skall gå.
 author: Hasse Håkansson
-date: 2021-08-31T15:42:19.049Z
+date: 2021-08-31T15:51:11.988Z
 tags:
   - post
   - featured
