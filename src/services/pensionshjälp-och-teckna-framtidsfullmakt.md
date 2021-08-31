@@ -3,7 +3,7 @@ title: Pensionshjälp och teckna framtidsfullmakt.
 sort: 1
 description: Båda tjänsterna i ett paketpris.
 author: Hasse Håkansson
-date: 2021-08-19T10:57:20.082Z
+date: 2021-08-31T15:52:06.567Z
 tags:
   - post
   - featured
