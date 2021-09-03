@@ -25,7 +25,7 @@ layout: 'base.njk'
     <h2 class="section-title text-center ">Populära tjänster</h2>
     <p class="text-center">Här listar jag de tjänster som ofta efterfrågas och som hjälpt fest. Resten av tjänsterna hittas under Tjänster i menyn.</p>
       <ul role="list" class="articles__list flow">
-        {%- for post in collections.myCustomSort -%}
+        {%- for post in collections.myCustomSort | reverse -%}
           {% include "article-snippet.njk" %}
         {%- endfor -%}
       </ul>
