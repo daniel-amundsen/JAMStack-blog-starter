@@ -1,5 +1,5 @@
 ---
-title: Testmente
+title: Testamente
 sort: 15
 description: Få hjälp med att skriva ner vart du vill att ditt arv skall gå.
 author: Hasse Håkansson
