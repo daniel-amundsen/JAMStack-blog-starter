@@ -4,7 +4,7 @@ sort: 2
 description: Pensionsprognoser, förslag på upplägg, hjälp med uttag, utskrift
   som du har kvar som kvitto.
 author: Hasse Håkansson
-date: 2021-11-13T15:50:59.595Z
+date: 2021-11-13T16:31:02.167Z
 tags:
   - post
   - featured
