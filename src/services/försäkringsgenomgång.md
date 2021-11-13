@@ -3,7 +3,7 @@ title: Försäkringsgenomgång.
 sort: 1
 description: Jag reder upp med dig vad det är för försäkringar du har.
 author: Hasse Håkansson
-date: 2021-11-13T16:29:27.593Z
+date: 2021-11-13T16:30:15.420Z
 tags:
   - post
   - featured
