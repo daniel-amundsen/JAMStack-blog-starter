@@ -10,7 +10,7 @@ tags:
 imageAlt: Pensionshjälp och framtidsfullmakt.
 image: /assets/media/pensionspyramid.png
 ---
-Jag har upptäckt att det är väldigt svårt att få hjälp med helheten inför pensionering. Till viss del informera Pensionsmyndigheten. Men det är endast för den allmäna pensionen. Banker och andra tjänstepensionsbolag, hjälper också tillviss del, till. Men endast med ´´sin´´ bit.
+Jag har upptäckt att det är väldigt svårt att få hjälp med helheten inför pensionering. Till viss del informera Pensionsmyndigheten. Men det är endast för den allmäna pensionen. Banker och andra tjänstepensionsbolag, hjälper också till. Men endast med ´´sin´´ bit.
 
 Jag hjälper dig med helheten.
 
