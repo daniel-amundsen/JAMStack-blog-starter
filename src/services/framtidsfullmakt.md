@@ -3,7 +3,7 @@ title: Framtidsfullmakt
 sort: 3
 description: Få hjälp med framtidsfullmakt för trygghet för dig och dina anhöriga.
 author: Hasse Håkansson
-date: 2021-11-13T16:02:27.395Z
+date: 2021-11-13T16:30:33.757Z
 tags:
   - post
   - featured
