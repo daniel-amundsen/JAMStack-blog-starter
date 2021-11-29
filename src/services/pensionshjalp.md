@@ -18,3 +18,5 @@ Det är svårt att få hjälp med alla delarna i pensionen när du skall gå i p
 De allra flesta tycker det är rörigt. Vad är inkomstpension, premiepension, Collectum, Pensionsvalet, Fora, Saf-LO, Kap-kl, Alecta, AMF, återbetalningsskydd, familjeskydd, fonder, traditionell försäkring mm, mm? Benämningarna är många, som gör att det är svårt att hålla reda på och hålla isär allt.
 
 Jag hjälper dig att reda upp det. Skall du ha eller välja bort återbetalningsskydd. Kan du flytta ihop och samla ditt pensionskapital på ett eller färre bolag än du har idag. Kontakta mig och ställ frågorna så hjälper jag dig.
+
+Vill du ha hjälp med att flytta ihop tjänstepension, om du har de utspridda på Swedbank, Länsförsäkringar, Handelsbanken, Nordea, AMF, KPA, Folksam, Alecta, mm mm. Kan det vara skönt att samla framförallt mindre kapital på det bolag som du har mest eller i vart fall mer pengar. Vilket gör att det blir enklare vid uttag och det inte kommer pengar från allt för många utbetalare.
