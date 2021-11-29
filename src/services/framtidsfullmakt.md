@@ -14,6 +14,8 @@ En framtidsfullmakt innebär att du som privatperson ger någon annan rätten at
 
 Den framtidsfullmakt som Pensionsfrid tillhandahåller följer lagar och regler.
 
-Jag hjälper dig så att du även lämnar fullmakt på apotek. Så den du ger fullmakten till, kan hämta ut medicin till dig, om och när du själv inte är kapabel till det.
+Jag hjälper dig så att du även lämnar fullmakt för apoteksärenden. Så den du ger fullmakten till, kan hämta ut medicin till dig, om och när du själv inte är kapabel till det.
 
 Genom en framtidsfullmakt kan du och dina anhöriga känna er trygga med att allt kan flyta på, om något oförutsett händer dig ,eller eventuellt din respektive. Dina anhöriga behöver alltså inte heller oro sig för följder, om du råkar ut för någon sjukdom, olyckshändelse eller annat som gör att du inte är kapabel att sköta din vardagliga sysselsättningar.
+
+Jag tycker inte att det skall kosta dig mer än nödvändigt. Banker och jurister tar ut alldeles för höga arvoden. Din trygghet skall inte behöva tömma din plånbok.
