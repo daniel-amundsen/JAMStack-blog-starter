@@ -19,3 +19,5 @@ Vi reder upp de olika delarna i pensionen. Gör flera olika prognoser. Du kommer
 Samtidigt hjälper jag dig skriva framtidsfullmakt som ger dig och dina anhöriga trygghet om något oförutsett inträffar.
 
 Genom att nyttja av båda tjänsterna samtidigt får du ta del av ett paketpris.
+
+Vill du ha hjälp med att flytta ihop tjänstepension, om du har de utspridda på Swedbank, Länsförsäkringar, Handelsbanken, Nordea, AMF, KPA, Folksam, Alecta, mm mm. Kan det vara skönt att samla framförallt mindre kapital på det bolag som du har mest eller i vart fall mer pengar. Vilket gör att det blir enklare vid uttag och det inte kommer pengar från allt för många utbetalare.
